@@ -1,4 +1,4 @@
-👋 Hi, I'm Keerthana Thiruppathi<br>
+👋 Hi, I'm Keerthana Thiruppathi <br>
 🤖 <B> AI & Data Science Engineer | Machine Learning | Data Analytics | Python </B>
 
     -- I'm an AI & Data Science Graduate passionate about building practical solutions using Machine Learning, Data Analytics, Computer Vision, and Web Technologies.
