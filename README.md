@@ -7,7 +7,7 @@
 
 
 ## 💫 About Me:
-- 🎓 B.Tech in Artificial Intelligence & Data Science<br>
+🎓 B.Tech in Artificial Intelligence & Data Science<br>
 🧠 Interested in AI& ML, Data Analytics & Software Development<br>
 🐍 Strong interest in Python and Data Science<br>
 📊 Experience with Power BI, SQL and data analysis<br>
