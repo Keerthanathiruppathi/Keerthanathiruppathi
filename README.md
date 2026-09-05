@@ -1,55 +1,180 @@
-👋 Hi, I'm Keerthana Thiruppathi <br>
-🤖 <B> AI & Data Science Engineer | Machine Learning | Data Analytics | Python </B>
+# Hi there! 👾 I'm Keerthana
 
-    -- I'm an AI & Data Science Graduate passionate about building practical solutions using Machine Learning, Data Analytics, Computer Vision, and Web Technologies.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=AI+%26+Data+Science+Graduate;Python+Developer;ML+Enthusiast;Building+Intelligent+Solutions)](https://git.io/typing-svg)
 
-    -- I enjoy learning new technologies, solving real-world problems, and turning data into meaningful insights. I'm currently looking for opportunities where I can contribute my technical skills, learn from experienced teams, and grow as an AI/ML or Data professional.
+---
 
+## 👨‍💻 About Me
 
-## 💫 About Me:
-🎓 B.Tech in Artificial Intelligence & Data Science<br>
-🧠 Interested in AI& ML, Data Analytics & Software Development<br>
-🐍 Strong interest in Python and Data Science<br>
-📊 Experience with Power BI, SQL and data analysis<br>
-👁️ Worked with YOLO, OpenCV and Computer Vision<br>
-🌐 Experience developing applications using Django, FastAPI and Streamlit<br>
-☁️ Familiar with Google Cloud, Docker and GitHub Actions<br>
-💡 Passionate about learning new technologies and building practical projects<br>
-🤝 Open to collaborating on interesting AI/ML, Data Science and Software projects<br>
+Hello! I'm Keerthana, a passionate Artificial Intelligence and Data Science graduate based in India. My journey in tech is driven by a curiosity to explore and build intelligent systems that make a real impact. I thrive on transforming complex data into actionable insights and developing robust, scalable solutions.
 
+With a solid foundation in Python programming, I specialize in areas like Machine Learning, Computer Vision, and Generative AI. I'm always eager to learn new technologies and contribute to projects that push the boundaries of innovation.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Keerthana-thiruppathi) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:keerthanathiruppathi29@gmail.com) 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/keerthanathiruppathi/)
+## 🎯 Current Focus
 
-## 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+- 🔭 Working on: **Exploring advanced Generative AI models for creative applications** <!-- TODO: Add your current main project -->
+- 🌱 Learning: **Deep reinforcement learning and advanced MLOps practices** <!-- TODO: Add what you're currently learning -->
+- 👯 Looking to collaborate on: **Open Source projects related to AI, Data Science, or Computer Vision**
+- 💬 Ask me about: **Python, Django, Machine Learning, Computer Vision, Data Analysis, and SQL** <!-- TODO: Add your areas of expertise -->
+- ⚡ Fun fact: **I love unraveling mysteries, whether it's debugging a complex algorithm or solving a real-world puzzle!** <!-- TODO: Add a fun fact -->
 
-## 📈 GitHub Activity
+## 🛠️ Technology Arsenal
 
-I regularly use GitHub to:<br>
-
- 💻 Build and maintain personal projects<br>
- 🤖 Experiment with Machine Learning and AI<br>
- 📊 Work on Data Analytics projects<br>
- 🌱 Learn and explore new technologies<br>
- 🔧 Practice software development and problem solving<br><br>
-
-⭐ Feel free to explore my repositories and check out my projects!
-
-## 📊 GitHub Stats
-
-![Keerthana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Keerthanathiruppathi&show_icons=true&theme=tokyonight)
-
-
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
-
- <centre> <b>💡 "Keep learning. Keep building. Keep improving." <br>
-
-⭐ Thanks for visiting my profile!</b> </centre>
+My toolkit is a blend of versatile programming languages, robust frameworks, and essential data tools.
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#### 💻 Programming & Web Development
+
+<p align="center">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+</a>
+<a href="https://react.dev/" target="_blank">
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+</a>
+<a href="https://www.php.net/" target="_blank">
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank">
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</a>
+
+</p>
+
+#### 🤖 AI, Machine Learning & Computer Vision
+
+<p align="center">
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn"/>
+</a>
+<a href="https://keras.io/" target="_blank">
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+</a>
+<a href="https://pytorch.org/" target="_blank">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+</a>
+<a href="https://opencv.org/" target="_blank">
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+</a>
+<a href="https://openai.com/" target="_blank">
+<img src="https://img.shields.io/badge/Gen%20AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Gen AI"/>
+</a>
+
+</p>
+
+#### 📊 Data Science & Analytics
+
+<p align="center">
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</a>
+<a href="https://numpy.org/" target="_blank">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</a>
+<a href="https://powerbi.microsoft.com/" target="_blank">
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+</a>
+<a href="https://streamlit.io/" target="_blank">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+</a>
+
+</p>
+
+#### 🗄️ Databases
+
+<p align="center">
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+</a>
+
+</p>
+
+#### 🚀 Deployment & Cloud
+
+<p align="center">
+
+<a href="https://vercel.com/" target="_blank">
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</a>
+
+</p>
+
+</div>
+
+## 📊 GitHub Analytics Dashboard
+
+A glimpse into my coding journey and contributions.
+
+### 🔥 Streak Statistics
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthanathiruppathi&theme=tokyonight&hide_border=true"/>
+</p>
+
+### 📅 Contribution Calendar
+<p align="center">
+  <img
+    src="https://ghchart.xqsit94.in/dark:default/Keerthanathiruppathi"
+    alt="Keerthana's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
+
+## 🌐 Let's Connect & Collaborate
+
+I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about tech!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: www.linkedin.com/in/keerthana-thiruppathi-4a460b282 -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: https://keerthanathiruppathi.github.io/My_Portfolio/ -->
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: keerthanathiruppathi29@gmail.com -->
+
+</div>
+
+## 🎯 My Goals
+
+- 🚀 Contribute to more open source projects in the AI/ML domain
+- 📚 Master advanced deep learning architectures and deployment strategies
+- 🌟 Build and deploy an end-to-end Generative AI & Software application
+- 📝 Share knowledge through technical articles or presentations
+
+---
+
+</div>
+
+<div align="center">
+  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Keerthanathiruppathi&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
+
+  ### 🚀 "Code is poetry, and every commit tells a story"
+
+  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+</div>
+
