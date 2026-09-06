@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Keerthana, a passionate Artificial Intelligence and Data Science graduate based in India. My journey in tech is driven by a curiosity to explore and build intelligent systems that make a real impact. I thrive on transforming complex data into actionable insights and developing robust, scalable solutions.
+Hello! I'm Keerthana, a passionate Artificial Intelligence and Data Science graduate. My journey in tech is driven by a curiosity to explore and build intelligent systems that make a real impact. I thrive on transforming complex data into actionable insights and developing robust, scalable solutions.
 
 With a solid foundation in Python programming, I specialize in areas like Machine Learning, Computer Vision, and Generative AI. I'm always eager to learn new technologies and contribute to projects that push the boundaries of innovation.
 
@@ -14,7 +14,7 @@ With a solid foundation in Python programming, I specialize in areas like Machin
 
 - 🔭 Working on: **Exploring advanced Generative AI models for creative applications** <!-- TODO: Add your current main project -->
 - 🌱 Learning: **Deep reinforcement learning and advanced MLOps practices** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source projects related to AI, Data Science, or Computer Vision**
+- 👯 Looking to collaborate on: **Open Source projects related to AI, Data Science, or Computer Vision or React**
 - 💬 Ask me about: **Python, Django, Machine Learning, Computer Vision, Data Analysis, and SQL** <!-- TODO: Add your areas of expertise -->
 - ⚡ Fun fact: **I love unraveling mysteries, whether it's debugging a complex algorithm or solving a real-world puzzle!** <!-- TODO: Add a fun fact -->
 
