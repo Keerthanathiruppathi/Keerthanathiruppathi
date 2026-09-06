@@ -145,7 +145,7 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/keerthana-thiruppathi-4a460b282) <!-- TODO:  -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keerthana-thiruppathi-4a460b282/) <!-- TODO:  -->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://keerthanathiruppathi.github.io/My_Portfolio/) <!-- TODO:  -->
 
