@@ -127,14 +127,19 @@ A glimpse into my coding journey and contributions.
 
 ### 🔥 Streak Statistics
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerthanathiruppathi&theme=tokyonight&hide_border=true"/>
+  <a href="https://github.com/Keerthanathiruppathi">
+    <img
+      src="https://streak-stats.demolab.com/?user=Keerthanathiruppathi&theme=tokyonight&hide_border=true&border_radius=10"
+      alt="GitHub Streak Stats"
+    />
+  </a>
 </p>
 
 ### 📅 Contribution Calendar
 <p align="center">
   <img
     src="https://ghchart.xqsit94.in/dark:default/Keerthanathiruppathi"
-    alt="Keerthana's GitHub Contribution Graph"
+    alt="Keerthana's GitHub Contribution Calendar"
     width="100%"
   />
 </p>
