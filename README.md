@@ -8,7 +8,12 @@
 
 Hello! I'm Keerthana, a passionate Artificial Intelligence and Data Science graduate. My journey in tech is driven by a curiosity to explore and build intelligent systems that make a real impact. I thrive on transforming complex data into actionable insights and developing robust, scalable solutions.
 
-With a solid foundation in Python programming, I specialize in areas like Machine Learning, Computer Vision, and Generative AI. I'm always eager to learn new technologies and contribute to projects that push the boundaries of innovation.
+With a solid foundation in Python programming, I specialize in areas like Machine Learning, Computer Vision, and Generative AI. I'm always eager to learn new technologies and contribute to projects that push the boundaries of innovation.<br><br>
+    - Built 6+ projects with accurate solution.<br>
+    - Completed 4 Internships in various domains.<br>
+    - Presented 2 papers in an International level conference.<br>
+    - Participated in hackathons and symposium.<br>
+    - Having good academic percentage with 8.21 CGPA and completed Minors in Business Data Analytics.<br>
 
 ## 🎯 Current Focus
 
