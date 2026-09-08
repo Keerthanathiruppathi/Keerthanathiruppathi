@@ -13,10 +13,10 @@ With a solid foundation in Python programming, I specialize in areas like Machin
 ## 🎯 Current Focus
 
 - 🔭 Working on: **Exploring advanced Generative AI models for creative applications** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **Deep reinforcement learning and advanced MLOps practices** <!-- TODO: Add what you're currently learning -->
+- 🌱 Learning: **React JS, Deep reinforcement learning and advanced MLOps practices** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source projects related to AI, Data Science, or Computer Vision or React**
 - 💬 Ask me about: **Python, Django, Machine Learning, Computer Vision, Data Analysis, and SQL** <!-- TODO: Add your areas of expertise -->
-- ⚡ Fun fact: **I love unraveling mysteries, whether it's debugging a complex algorithm or solving a real-world puzzle!** <!-- TODO: Add a fun fact -->
+
 
 ## 🛠️ Technology Arsenal
 
