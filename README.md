@@ -130,7 +130,7 @@ My toolkit is a blend of versatile programming languages, robust frameworks, and
 
 A glimpse into my coding journey and contributions.
 
-### 🔥 Streak Statistics
+<h2 align="center">🔥 Streak Statistics</h2>
 <p align="center">
   <a href="https://github.com/Keerthanathiruppathi">
     <img
@@ -140,14 +140,29 @@ A glimpse into my coding journey and contributions.
   </a>
 </p>
 
-### 📅 Contribution Calendar
+<!-- ==================== LEETCODE ==================== -->
+
+<h2 align="center">🧑‍💻 LeetCode Activity</h2>
+
 <p align="center">
-  <img
-    src="https://ghchart.xqsit94.in/dark:default/Keerthanathiruppathi"
-    alt="Keerthana's GitHub Contribution Calendar"
-    width="100%"
-  />
+  <a href="https://leetcode.com/u/keerthanathiruppathi/">
+    <img
+      src="https://leetcard.jacoblin.cool/keerthanathiruppathi?theme=dark&extension=activity"
+      alt="Keerthana's LeetCode Stats and Activity"
+    />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://leetcode.com/u/keerthanathiruppathi/">
+    <img
+      src="https://img.shields.io/badge/View%20My-LeetCode%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      alt="View LeetCode Profile"
+    />
+  </a>
+</p>
+
+<!-- ==================================================== -->
 
 ## 🌐 Let's Connect & Collaborate
 
