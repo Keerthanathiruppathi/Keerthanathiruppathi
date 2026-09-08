@@ -4,23 +4,28 @@
 
 ---
 
-## 👨‍💻 About Me
+I'm **Keerthana**, an **Artificial Intelligence & Data Science graduate** passionate about turning ideas into intelligent, practical solutions. I enjoy working at the intersection of **AI, data, software development, and emerging technologies** — from training ML models to building scalable applications.
 
-Hello! I'm Keerthana, a passionate Artificial Intelligence and Data Science graduate. My journey in tech is driven by a curiosity to explore and build intelligent systems that make a real impact. I thrive on transforming complex data into actionable insights and developing robust, scalable solutions.
+I believe in **learning by building**, experimenting with new technologies, and solving real-world problems through code. My interests span **Machine Learning, Computer Vision, Generative AI, Data Analytics, and Full-Stack Development**.
 
-With a solid foundation in Python programming, I specialize in areas like Machine Learning, Computer Vision, and Generative AI. I'm always eager to learn new technologies and contribute to projects that push the boundaries of innovation.<br><br>
-    - Built 6+ projects with accurate solution.<br>
-    - Completed 4 Internships in various domains.<br>
-    - Presented 2 papers in an International level conference.<br>
-    - Participated in hackathons and symposium.<br>
-    - Having good academic percentage with 8.21 CGPA and completed Minors in Business Data Analytics.<br>
+### ✨ My Journey
+
+- 🏗️ **6+ projects** built across AI, Data Science & Software Development
+- 🎓 **8.4 CGPA** with a **Minor in Business Data Analytics**
+- 🏆 Recognized as the **Best Outgoing Student**
+- 💼 Completed **4 internships** across multiple technology domains
+- 🌍 Presented **2 research papers** at international-level conferences
+- ⚡ Participated in a **36-hour hackathon** among **120+ teams**
+- 🔬 Presented research on **Quantum Computing in Technology** at a national-level symposium
+- ☀️ Received **Merit Recognition** for *AI Weather Prediction Model using Quantum Techniques* at **Kodaikanal Solar Observatory**
+
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **Exploring advanced Generative AI models for creative applications** <!-- TODO: Add your current main project -->
+- 🔭 Working on: **Exploring advanced Generative AI models for creative applications and developing ERP systems** <!-- TODO: Add your current main project -->
 - 🌱 Learning: **React JS, Deep reinforcement learning and advanced MLOps practices** <!-- TODO: Add what you're currently learning -->
 - 👯 Looking to collaborate on: **Open Source projects related to AI, Data Science, or Computer Vision or React**
-- 💬 Ask me about: **Python, Django, Machine Learning, Computer Vision, Data Analysis, and SQL** <!-- TODO: Add your areas of expertise -->
+
 
 
 ## 🛠️ Technology Arsenal
