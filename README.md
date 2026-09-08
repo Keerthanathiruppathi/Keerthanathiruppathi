@@ -22,9 +22,9 @@ I believe in **learning by building**, experimenting with new technologies, and 
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **Exploring advanced Generative AI models for creative applications and developing ERP systems** <!-- TODO: Add your current main project -->
-- 🌱 Learning: **React JS, Deep reinforcement learning and advanced MLOps practices** <!-- TODO: Add what you're currently learning -->
-- 👯 Looking to collaborate on: **Open Source projects related to AI, Data Science, or Computer Vision or React**
+  -  Working on: **Exploring advanced Generative AI models for creative applications and developing ERP systems** <!-- TODO: Add your current main project -->
+  -  Learning: **React JS, Deep reinforcement learning and advanced MLOps practices** <!-- TODO: Add what you're currently learning -->
+  -  Looking to collaborate on: **Open Source projects related to AI, Data Science, or Computer Vision or Fullstack development**
 
 
 
@@ -145,9 +145,9 @@ A glimpse into my coding journey and contributions.
   </a>
 </p>
 
-<!-- ==================== LEETCODE ==================== -->
 
-<h2 align="center">🧑‍💻 LeetCode Activity</h2>
+
+## 🧑‍💻 LeetCode Activity
 
 <p align="center">
   <a href="https://leetcode.com/u/keerthanathiruppathi/">
