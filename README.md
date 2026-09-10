@@ -139,7 +139,7 @@ A glimpse into my coding journey and contributions.
 <p align="center">
   <a href="https://github.com/Keerthanathiruppathi">
     <img
-      src="https://streak-stats.demolab.com/?user=Keerthanathiruppathi&theme=tokyonight&hide_border=true&border_radius=10"
+      src="https://streak-stats.demolab.com/?user=Keerthanathiruppathi&theme=tokyonight&hide_border=true&border_radius=10" 
       alt="GitHub Streak Stats"
     />
   </a>
