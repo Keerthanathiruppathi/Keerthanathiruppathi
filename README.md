@@ -6,7 +6,7 @@
 
 I'm **Keerthana**, an **Artificial Intelligence & Data Science graduate** passionate about turning ideas into intelligent, practical solutions. I enjoy working at the intersection of **AI, data, software development, and emerging technologies** — from training ML models to building scalable applications.
 
-I believe in **learning by building**, experimenting with new technologies, and solving real-world problems through code. My interests span **Machine Learning, Computer Vision, Generative AI, Data Analytics, and Full-Stack Development**.
+I believe in **learning by building**, experimenting with new technologies, and solving real-world problems through code. My interests span **Machine Learning, Computer Vision, Generative AI, Data Analytics, and Full-Stack Development**. 
 
 ### ✨ My Journey
 
