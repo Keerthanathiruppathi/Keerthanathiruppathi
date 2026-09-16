@@ -44,17 +44,29 @@ My toolkit is a blend of versatile programming languages, robust frameworks, and
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
 </a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</a>
 <a href="https://react.dev/" target="_blank">
 <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
 </a>
 <a href="https://www.djangoproject.com/" target="_blank">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
 </a>
+
+<br>
+
 <a href="https://www.php.net/" target="_blank">
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </a>
 <a href="https://fastapi.tiangolo.com/" target="_blank">
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+</a>
+<a href="https://threejs.org/" target="_blank">
+<img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white" alt="Three.js"/>
 </a>
 
 </p>
@@ -119,6 +131,19 @@ My toolkit is a blend of versatile programming languages, robust frameworks, and
 
 </p>
 
+#### 🧠 AI & Developer Tools
+
+<p align="center">
+
+<a href="https://claude.ai/" target="_blank">
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+</a>
+<a href="https://github.com/features/copilot" target="_blank">
+<img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot"/>
+</a>
+
+</p>
+
 #### 🚀 Deployment & Cloud
 
 <p align="center">
@@ -128,7 +153,6 @@ My toolkit is a blend of versatile programming languages, robust frameworks, and
 </a>
 
 </p>
-
 </div>
 
 ## 📊 GitHub Analytics Dashboard
