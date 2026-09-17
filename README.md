@@ -10,20 +10,20 @@ I believe in **learning by building**, experimenting with new technologies, and 
 
 ### ✨ My Journey
 
-- 🏗️ **6+ projects** built across AI, Data Science & Software Development
-- 🎓 **8.4 CGPA** with a **Minor in Business Data Analytics**
-- 🏆 Recognized as the **Best Outgoing Student**
-- 💼 Completed **4 internships** across multiple technology domains
-- 🌍 Presented **2 research papers** at international-level conferences
-- ⚡ Participated in a **36-hour hackathon** among **120+ teams**
-- 🔬 Presented research on **Quantum Computing in Technology** at a national-level symposium
-- ☀️ Received **Merit Recognition** for *AI Weather Prediction Model using Quantum Techniques* at **Kodaikanal Solar Observatory**
+-  **6+ projects** built across AI, Data Science & Software Development
+-  **8.4 CGPA** with a **Minor in Business Data Analytics**
+-  Recognized as the **Best Outgoing Student**
+-  Completed **4 internships** across multiple technology domains
+-  Presented **2 research papers** at international-level conferences
+-  Participated in a **36-hour hackathon** among **120+ teams**
+-  Presented research on **Quantum Computing in Technology** at a national-level symposium
+-  Received **Merit Recognition** for *AI Weather Prediction Model using Quantum Techniques* at **Kodaikanal Solar Observatory**
 
 
 ## 🎯 Current Focus
 
-  -  Working on: **Exploring advanced Generative AI models for creative applications and developing ERP systems** <!-- TODO: Add your current main project -->
-  -  Learning: **React JS, Deep reinforcement learning and advanced MLOps practices** <!-- TODO: Add what you're currently learning -->
+  -  Working on: **Exploring React JS applications and developing realtime ERP systems** <!-- TODO: Add your current main project -->
+  -  Learning: **Generative AI, Deep reinforcement learning and advanced MLOps practices** <!-- TODO: Add what you're currently learning -->
   -  Looking to collaborate on: **Open Source projects related to AI, Data Science, or Computer Vision or Fullstack development**
 
 
@@ -209,10 +209,10 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 ## 🎯 My Goals
 
-- 🚀 Contribute to more open source projects in the AI/ML domain
-- 📚 Master advanced deep learning architectures and deployment strategies
-- 🌟 Build and deploy an end-to-end Generative AI & Software application
-- 📝 Share knowledge through technical articles or presentations
+-  Contribute to more open source projects in the AI/ML domain & learning consistently 
+-  Master advanced deep learning architectures and deployment strategies
+-  Build and deploy an end-to-end Generative AI & Software application
+-  Share knowledge through technical articles or presentations
 
 ---
 
